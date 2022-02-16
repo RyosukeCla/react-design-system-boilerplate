@@ -30,3 +30,9 @@ yarn run build:vitebook
 ```sh
 yarn run build
 ```
+
+now, you can publish your design component to npm!
+
+```sh
+yarn publish
+```

@@ -1,4 +1,4 @@
-# boilerlate: design system for react
+# boilerplate: design system for react
 
 features
 

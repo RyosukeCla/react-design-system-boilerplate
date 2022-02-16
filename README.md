@@ -27,11 +27,13 @@ yarn run build:vitebook
 
 ## build and publish design component for npm package
 
+At first, build your design componenets by this command.
+
 ```sh
 yarn run build
 ```
 
-Set `name` and `version` in `package.json` to suit your enviroment before deploying design components.
+Then, Set `name` and `version` in `package.json` to suit your enviroment before deploying design components.
 Now, you can publish your design components to npm!
 
 ```sh
